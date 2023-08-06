@@ -1,4 +1,4 @@
-# numbertoletter
+# Numbertoletter
 ### Cette classe permettra de convertir des nombres en lettres
 ## Utilisation
 ```
